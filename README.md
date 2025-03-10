@@ -1,5 +1,5 @@
-Cecília's Portifolio! <br>
-Hello, welcome to my portifolio project. 
+Cecília's Portfolio! <br>
+Hello, welcome to my portfolio project. 
 
 Tools: 
 - html
